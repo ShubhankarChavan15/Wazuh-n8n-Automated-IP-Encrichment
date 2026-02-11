@@ -164,6 +164,8 @@ We built a lightweight SOC automation pipeline that:
 
 This automation reduces manual investigation time, improves alert context, and demonstrates how modern SOC teams can leverage workflow automation to enhance threat detection and response.
 
+---
+
 ## Screenshots
 
 ### Suspicious Email Alert
