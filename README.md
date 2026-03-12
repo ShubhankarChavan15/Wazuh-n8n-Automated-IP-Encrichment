@@ -168,11 +168,13 @@ This automation reduces manual investigation time, improves alert context, and d
 
 ## Screenshots
 
+### n8n Wazuh IP Enrichment Workflow
+![n8n Workflow](./n8nWazuhIPEnrichment.png)
+
 ### Suspicious Email Alert
 ![Suspicious Alert](./SecuAlertSuspicious.png)
 
 ### n8n Summary Output
 ![n8n Summary](./n8nSummary.png)
 
-### n8n Wazuh IP Enrichment Workflow
-![n8n Workflow](./n8nWazuhIPEnrichment.png)
+
